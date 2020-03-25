@@ -1,2 +1,2 @@
 release: cd api
-web: gunicorn fyle.wsgi
+web: gunicorn api.wsgi
